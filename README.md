@@ -134,3 +134,7 @@ WHERE Rainfall >= 2800;
 
 SELECT * FROM Agriculture;
 ```
+![Screenshot 2025-03-12 192923](https://github.com/user-attachments/assets/36e6685a-3c33-4cfb-b4ff-b60d65bf87d8)
+![Screenshot 2025-03-12 192943](https://github.com/user-attachments/assets/db8b8f67-c921-43e7-b2a7-2b2a2c9558f4)
+![Screenshot 2025-03-12 193003](https://github.com/user-attachments/assets/209b3374-5bf7-4a47-b351-a5423963a1e2)
+![Screenshot 2025-03-12 193027](https://github.com/user-attachments/assets/5e856ca9-f664-4a6b-9dd4-402af580c2fa)
